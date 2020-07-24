@@ -14,7 +14,7 @@ public class AverageOfList {
 			int ele = sc.nextInt();
 			list.add(ele);
 		}
-		System.out.println("The average is :");
+		System.out.println("The average of the list is :");
 		double avg = averageCal(list);
 		System.out.println(avg);
 	}

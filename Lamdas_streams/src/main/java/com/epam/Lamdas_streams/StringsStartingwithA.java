@@ -15,7 +15,7 @@ public class StringsStartingwithA {
 			String ele = sc.next();
 			list.add(ele);
 		}
-		System.out.println("The strings starting with 'a' and length of 3 are : ");
+		System.out.println("The strings starting with letter 'a' and length of 3 are : ");
 		List<String> resultList = startingWithA(list);
 		System.out.println(resultList);
 	}

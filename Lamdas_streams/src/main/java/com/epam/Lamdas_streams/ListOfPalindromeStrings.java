@@ -17,7 +17,7 @@ public class ListOfPalindromeStrings {
 			String ele = sc.next();
 			list.add(ele);
 		}
-		System.out.println("palindrome strings are :");
+		System.out.println("Palindrome strings are :");
 		List<String> resultList = palindromeStrings(list);
 		System.out.println(resultList);
 
